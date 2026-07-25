@@ -9,7 +9,7 @@ cask "e2eechat" do
   desc "End-to-end encrypted chat client"
   homepage "https://github.com/ekaterinburg001/homebrew-e2eechat"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "E2EEChat-1.app"
 end
