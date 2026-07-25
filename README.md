@@ -7,10 +7,17 @@ E2EEChat.
 
 ```bash
 brew tap ekaterinburg001/e2eechat
+brew trust ekaterinburg001/e2eechat
 brew install --cask e2eechat
 ```
 
 E2EEChat is installed as `/Applications/E2EEChat-1.app`.
+
+The same installation can be run as one command:
+
+```bash
+brew tap ekaterinburg001/e2eechat && brew trust ekaterinburg001/e2eechat && brew install --cask e2eechat
+```
 
 ## Update
 
