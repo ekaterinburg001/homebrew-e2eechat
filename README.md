@@ -42,10 +42,10 @@ container, local encryption keys, accounts, and chat data.
 
 ## Current release
 
-Version: **2.0.2 (build 4)**
+Version: **2.0.2 (build 5)**
 
 SHA-256:
 
 ```text
-806fbd64221b29cb96bb18a31f26c0410a5931d8aa1f31858dd9702496b90b7e
+2230ff89a918bb508c6f3325dcb4531b445e0d584f093afef3a9238127709b9e
 ```
