@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 cask "e2eechat" do
-  version "2.0.4.14"
-  sha256 "6e2f06382eb2e7a07f932e209465bbf90317021f1e23f6360a12869e7f145f67"
+  version "2.0.4.15"
+  sha256 "f9cb21bfa1d4ef55b75d75360cf5243eef47e7ef1e3c6d7831edc60768f5994d"
 
   url "https://github.com/ekaterinburg001/homebrew-e2eechat/releases/download/v#{version}/E2EEChat-1-Bundled-Whisper-Universal.zip"
   name "E2EEChat"
