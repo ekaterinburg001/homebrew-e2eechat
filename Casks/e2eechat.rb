@@ -2,7 +2,7 @@
 
 cask "e2eechat" do
   version "2.0.4.14"
-  sha256 "7e8f527d513f16f40a08b17b16c07875140bee050610e8277275c9f3e38fd04e"
+  sha256 "6e2f06382eb2e7a07f932e209465bbf90317021f1e23f6360a12869e7f145f67"
 
   url "https://github.com/ekaterinburg001/homebrew-e2eechat/releases/download/v#{version}/E2EEChat-1-Bundled-Whisper-Universal.zip"
   name "E2EEChat"
